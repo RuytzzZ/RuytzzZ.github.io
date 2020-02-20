@@ -11,10 +11,10 @@ baseurl:
 url: https://ruytzzz.github.io
 title: Ruytzz
 name: Blog
-subtitle: "庸人自扰之"
-description: "世间本无事"
+subtitle: "世间本无事，庸人自扰之"
+description: "庸人自扰之"
 repository: ruytzzz/ruytzzz.github.io
-keywords: ruytzzz
+keywords: ruytzzz，植树造林，保护环境
 date_format: "ordinal"
 timezone: Asia/Shanghai
 encoding: "utf-8"
