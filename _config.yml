@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-baseurl:
+baseurl:  
 # It will redirect your site to this url
-url: https://ruytzzz.github.io
+url:  
 title: Ruytzz
 name: Blog
 subtitle: "世间本无事，庸人自扰之"
