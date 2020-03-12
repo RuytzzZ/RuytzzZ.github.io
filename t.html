@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #box {
+            display: flex;
+            flex-flow: column wrap;
+            background-color: rgba(255, 255, 255, 0.507);
+            width: 350px;
+            height: 250px;
+            border: 2px solid black;
+            /* align-content: center; */
+        }
+
+        .children {
+            height: 60px;
+            width: 60px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="box">
+        <div id="c1" class="children" style="background-color:red;">1</div>
+        <div id="c2" class="children" style="background-color:thistle;align-self: center;flex-grow: 1;"></div>
+        <div id="c3" class="children" style="background-color:rosybrown;flex-basis: 80px;"></div>
+        <div id="c4" class="children" style="background-color:royalblue"></div>
+        <div id="c5" class="children" style="background-color:salmon"></div>
+        <div id="c6" class="children" style="background-color:silver"></div>
+        <div id="c7" class="children" style="background-color:violet"></div>
+        <div id="c8" class="children" style="background-color:yellow"></div>
+
+    </div>
+</body>
+
+</html>
